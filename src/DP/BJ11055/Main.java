@@ -1,4 +1,4 @@
-package DP;
+package DP.BJ11055;
 
 import java.util.Scanner;
 

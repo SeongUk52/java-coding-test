@@ -1,10 +1,8 @@
+package DP.BJ14002;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.Collectors;
-
-import static java.util.stream.Collectors.toList;
 
 class Main {
     static Scanner scanner = new Scanner(System.in);
